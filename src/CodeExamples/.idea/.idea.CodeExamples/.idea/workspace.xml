@@ -12,7 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a081228c-be76-4281-ad27-8f2844a0c2e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/.idea.csharp-b9.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/ClassTest2.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Question1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Question1/Question1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Question1/Utility.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Question2/Palindrome.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Question2/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Question2/Question2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Question2Tests/Question2Tests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Question2Tests/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Tests/Question1Tests/Question1Tests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTest2/Tests/Question1Tests/UnitTest1.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +35,19 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Classes/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="223V0TLLDjMzesT7yGIVAQptwR5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -197,6 +213,7 @@
       <workItem from="1639067511593" duration="184000" />
       <workItem from="1639068301013" duration="545000" />
       <workItem from="1639077964149" duration="48000" />
+      <workItem from="1639078247129" duration="581000" />
     </task>
     <servers />
   </component>
@@ -230,6 +247,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
