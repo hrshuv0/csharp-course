@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0FkTP7NyTGSkPDGAZ+VupwN5hRA4KLVGp7bn3mMV78qfh4VCz5Nnapf/gfx4BTCuxuDdtk1CJrlUyLotv9dnbA==",
+  "success": true,
+  "projectFilePath": "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/CodeExamples/Arrays/Arrays.csproj",
+  "expectedPackageFiles": [
+    "/home/shuvo/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/shuvo/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/shuvo/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.12/microsoft.netcore.app.host.linux-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
