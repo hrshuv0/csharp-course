@@ -3876,11 +3876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2Tests/Question2Tests.csproj",
+      "projectUniqueName": "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2Tests/Question2Tests.csproj",
       "projectName": "Question2Tests",
-      "projectPath": "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2Tests/Question2Tests.csproj",
+      "projectPath": "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2Tests/Question2Tests.csproj",
       "packagesPath": "/home/shuvo/.nuget/packages/",
-      "outputPath": "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2Tests/obj/",
+      "outputPath": "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/shuvo/.nuget/NuGet/NuGet.Config"
@@ -3895,8 +3895,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2/Question2.csproj": {
-              "projectPath": "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2/Question2.csproj"
+            "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2/Question2.csproj": {
+              "projectPath": "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2/Question2.csproj"
             }
           }
         }
@@ -3943,7 +3943,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

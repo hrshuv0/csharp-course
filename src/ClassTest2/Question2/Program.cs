@@ -3,7 +3,7 @@ using Question2;
 
 Palindrome palindrome = new Palindrome();
 
-string text = "hi man";
+string text = "aAaBbBbBaAa";
 
 var flag = palindrome.IsPalindrome(text);
 

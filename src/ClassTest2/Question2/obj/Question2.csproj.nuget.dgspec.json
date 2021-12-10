@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2/Question2.csproj": {}
+    "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2/Question2.csproj": {}
   },
   "projects": {
-    "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2/Question2.csproj": {
+    "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2/Question2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2/Question2.csproj",
+        "projectUniqueName": "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2/Question2.csproj",
         "projectName": "Question2",
-        "projectPath": "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2/Question2.csproj",
+        "projectPath": "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2/Question2.csproj",
         "packagesPath": "/home/shuvo/.nuget/packages/",
-        "outputPath": "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2/obj/",
+        "outputPath": "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shuvo/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

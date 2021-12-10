@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3L8FdwRLUWGVinaZB0svmW5nokt/cigUirh/F+fAj/zDPsThlGJ4wU2jGxjH+b0OQaKU1gV+LPTzEtOAwvqyOA==",
+  "dgSpecHash": "tSkm5k388/Zw0iOEeZ3QPnlb2zAKkH53/dRgItys69e920aiO6ctFxHHDflqF0vvwmjL6NHITe9k4t4I4k0M+A==",
   "success": true,
-  "projectFilePath": "/home/shuvo/SD/dotnet.resource/resources/self/csharp-b9/src/ClassTest2/Question2/Question2.csproj",
+  "projectFilePath": "/home/shuvo/SD/dotnet.resource/resources/csharp-b9/src/ClassTest2/Question2/Question2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
