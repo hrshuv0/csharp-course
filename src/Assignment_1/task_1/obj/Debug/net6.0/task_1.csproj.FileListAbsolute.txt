@@ -1,0 +1,15 @@
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/bin/Debug/net6.0/task_1
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/bin/Debug/net6.0/task_1.deps.json
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/bin/Debug/net6.0/task_1.runtimeconfig.json
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/bin/Debug/net6.0/task_1.dll
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/bin/Debug/net6.0/ref/task_1.dll
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/bin/Debug/net6.0/task_1.pdb
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/obj/Debug/net6.0/task_1.csproj.AssemblyReference.cache
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/obj/Debug/net6.0/task_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/obj/Debug/net6.0/task_1.AssemblyInfoInputs.cache
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/obj/Debug/net6.0/task_1.AssemblyInfo.cs
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/obj/Debug/net6.0/task_1.csproj.CoreCompileInputs.cache
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/obj/Debug/net6.0/task_1.dll
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/obj/Debug/net6.0/ref/task_1.dll
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/obj/Debug/net6.0/task_1.pdb
+/home/shuvo/SD/dotnet/DevSkill/Assignment_1/task_1/obj/Debug/net6.0/task_1.genruntimeconfig.cache
