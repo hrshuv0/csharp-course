@@ -1,0 +1,15 @@
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/bin/Debug/net6.0/Question2
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/bin/Debug/net6.0/Question2.deps.json
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/bin/Debug/net6.0/Question2.runtimeconfig.json
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/bin/Debug/net6.0/Question2.dll
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/bin/Debug/net6.0/ref/Question2.dll
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/bin/Debug/net6.0/Question2.pdb
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/obj/Debug/net6.0/Question2.csproj.AssemblyReference.cache
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/obj/Debug/net6.0/Question2.GeneratedMSBuildEditorConfig.editorconfig
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/obj/Debug/net6.0/Question2.AssemblyInfoInputs.cache
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/obj/Debug/net6.0/Question2.AssemblyInfo.cs
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/obj/Debug/net6.0/Question2.csproj.CoreCompileInputs.cache
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/obj/Debug/net6.0/Question2.dll
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/obj/Debug/net6.0/ref/Question2.dll
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/obj/Debug/net6.0/Question2.pdb
+/home/shuvo/Desktop/git/self/csharp-course/src/Exam1/Question2/obj/Debug/net6.0/Question2.genruntimeconfig.cache
