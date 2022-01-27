@@ -8,78 +8,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8384b8d-fe02-420a-8e22-145d17760c3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pharmacy/Migrations/20220127073745_createMedecineTable.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/Migrations/20220127073745_createMedecineTable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/Migrations/PharmacyDbContextModelSnapshot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Humanizer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Extensions.Options.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Identity.Client.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/System.Security.Permissions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/System.Windows.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pharmacy/obj/Pharmacy.csproj.EntityFrameworkCore.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/CSharpB9.3luYDQ/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/CSharpB9.3luYDQ/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/CSharpB9.3luYDQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/CSharpB9.3luYDQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/CSharpB9.3luYDQ/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/CSharpB9.3luYDQ/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/master.YiqNvw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/d710b77f-fc85-4bc6-b820-a170952690e4/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/eb8ea215-d6b9-436c-b8a0-6267819b85b4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/dataSources/eb8ea215-d6b9-436c-b8a0-6267819b85b4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment_3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/Controller/MedicineController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/Controller/MedicineController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/Dashboard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/Dashboard.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/Model/Medicine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/Model/Medicine.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/Pharmacy.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/Pharmacy.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Pharmacy.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Pharmacy.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Pharmacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Pharmacy.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Pharmacy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/Pharmacy.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/ref/Pharmacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/bin/Debug/net6.0/ref/Pharmacy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/Pharmacy.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/ref/Pharmacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/Debug/net6.0/ref/Pharmacy.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/obj/Pharmacy.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/Pharmacy.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/obj/Pharmacy.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/Pharmacy.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pharmacy/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pharmacy/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +95,9 @@
       <option name="presentableId" value="Default" />
       <updated>1643221027548</updated>
       <workItem from="1643221067820" duration="4143000" />
-      <workItem from="1643264768835" duration="4285000" />
+      <workItem from="1643264768835" duration="4802000" />
+      <workItem from="1643298732569" duration="5763000" />
+      <workItem from="1643307664867" duration="244000" />
     </task>
     <servers />
   </component>

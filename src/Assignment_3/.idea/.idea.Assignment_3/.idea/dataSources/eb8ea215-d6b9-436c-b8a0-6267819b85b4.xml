@@ -42,37 +42,37 @@
       <ObjectId>9</ObjectId>
       <PermissionsCheckSum>3196235284</PermissionsCheckSum>
     </database>
-    <database id="3" parent="1" name="TestDb">
-      <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
-      <ObjectId>5</ObjectId>
-    </database>
-    <database id="4" parent="1" name="Tournament">
-      <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
-      <ObjectId>6</ObjectId>
-    </database>
-    <database id="5" parent="1" name="TournamentDb">
-      <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
-      <ObjectId>7</ObjectId>
-    </database>
-    <database id="6" parent="1" name="University">
-      <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
-      <ObjectId>8</ObjectId>
-    </database>
-    <database id="7" parent="1" name="master">
+    <database id="3" parent="1" name="master">
       <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
       <ObjectId>1</ObjectId>
     </database>
-    <database id="8" parent="1" name="model">
+    <database id="4" parent="1" name="tempdb">
+      <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+      <ObjectId>2</ObjectId>
+    </database>
+    <database id="5" parent="1" name="model">
       <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
       <ObjectId>3</ObjectId>
     </database>
-    <database id="9" parent="1" name="msdb">
+    <database id="6" parent="1" name="msdb">
       <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
       <ObjectId>4</ObjectId>
     </database>
-    <database id="10" parent="1" name="tempdb">
+    <database id="7" parent="1" name="TestDb">
       <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
-      <ObjectId>2</ObjectId>
+      <ObjectId>5</ObjectId>
+    </database>
+    <database id="8" parent="1" name="Tournament">
+      <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+      <ObjectId>6</ObjectId>
+    </database>
+    <database id="9" parent="1" name="TournamentDb">
+      <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+      <ObjectId>7</ObjectId>
+    </database>
+    <database id="10" parent="1" name="University">
+      <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+      <ObjectId>8</ObjectId>
     </database>
     <linked-server id="11" parent="1" name="X556UQ">
       <DataSource>X556UQ</DataSource>
@@ -196,83 +196,83 @@
       <ObjectId>270</ObjectId>
       <Type>certificate-mapped-login</Type>
     </login>
-    <role id="34" parent="2" name="public">
-      <AuthType>none</AuthType>
-      <ObjectId>0</ObjectId>
-      <Type>database-role</Type>
-      <OwnerId>1</OwnerId>
-    </role>
-    <role id="35" parent="2" name="dbo">
-      <AuthType>instance</AuthType>
-      <DefaultSchema>dbo</DefaultSchema>
-      <ObjectId>1</ObjectId>
-    </role>
-    <role id="36" parent="2" name="guest">
-      <AuthType>none</AuthType>
-      <DefaultSchema>guest</DefaultSchema>
-      <ObjectId>2</ObjectId>
-    </role>
-    <role id="37" parent="2" name="INFORMATION_SCHEMA">
+    <role id="34" parent="2" name="INFORMATION_SCHEMA">
       <AuthType>none</AuthType>
       <ObjectId>3</ObjectId>
     </role>
-    <role id="38" parent="2" name="sys">
-      <AuthType>none</AuthType>
-      <ObjectId>4</ObjectId>
-    </role>
-    <role id="39" parent="2" name="db_owner">
-      <AuthType>none</AuthType>
-      <ObjectId>16384</ObjectId>
-      <Type>database-role</Type>
-      <OwnerId>1</OwnerId>
-    </role>
-    <role id="40" parent="2" name="db_accessadmin">
+    <role id="35" parent="2" name="db_accessadmin">
       <AuthType>none</AuthType>
       <ObjectId>16385</ObjectId>
       <Type>database-role</Type>
       <OwnerId>1</OwnerId>
     </role>
-    <role id="41" parent="2" name="db_securityadmin">
-      <AuthType>none</AuthType>
-      <ObjectId>16386</ObjectId>
-      <Type>database-role</Type>
-      <OwnerId>1</OwnerId>
-    </role>
-    <role id="42" parent="2" name="db_ddladmin">
-      <AuthType>none</AuthType>
-      <ObjectId>16387</ObjectId>
-      <Type>database-role</Type>
-      <OwnerId>1</OwnerId>
-    </role>
-    <role id="43" parent="2" name="db_backupoperator">
+    <role id="36" parent="2" name="db_backupoperator">
       <AuthType>none</AuthType>
       <ObjectId>16389</ObjectId>
       <Type>database-role</Type>
       <OwnerId>1</OwnerId>
     </role>
-    <role id="44" parent="2" name="db_datareader">
+    <role id="37" parent="2" name="db_datareader">
       <AuthType>none</AuthType>
       <ObjectId>16390</ObjectId>
       <Type>database-role</Type>
       <OwnerId>1</OwnerId>
     </role>
-    <role id="45" parent="2" name="db_datawriter">
+    <role id="38" parent="2" name="db_datawriter">
       <AuthType>none</AuthType>
       <ObjectId>16391</ObjectId>
       <Type>database-role</Type>
       <OwnerId>1</OwnerId>
     </role>
-    <role id="46" parent="2" name="db_denydatareader">
+    <role id="39" parent="2" name="db_ddladmin">
+      <AuthType>none</AuthType>
+      <ObjectId>16387</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="40" parent="2" name="db_denydatareader">
       <AuthType>none</AuthType>
       <ObjectId>16392</ObjectId>
       <Type>database-role</Type>
       <OwnerId>1</OwnerId>
     </role>
-    <role id="47" parent="2" name="db_denydatawriter">
+    <role id="41" parent="2" name="db_denydatawriter">
       <AuthType>none</AuthType>
       <ObjectId>16393</ObjectId>
       <Type>database-role</Type>
       <OwnerId>1</OwnerId>
+    </role>
+    <role id="42" parent="2" name="db_owner">
+      <AuthType>none</AuthType>
+      <ObjectId>16384</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="43" parent="2" name="db_securityadmin">
+      <AuthType>none</AuthType>
+      <ObjectId>16386</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="44" parent="2" name="dbo">
+      <AuthType>instance</AuthType>
+      <DefaultSchema>dbo</DefaultSchema>
+      <ObjectId>1</ObjectId>
+    </role>
+    <role id="45" parent="2" name="guest">
+      <AuthType>none</AuthType>
+      <DefaultSchema>guest</DefaultSchema>
+      <ObjectId>2</ObjectId>
+    </role>
+    <role id="46" parent="2" name="public">
+      <AuthType>none</AuthType>
+      <ObjectId>0</ObjectId>
+      <Type>database-role</Type>
+      <OwnerId>1</OwnerId>
+    </role>
+    <role id="47" parent="2" name="sys">
+      <AuthType>none</AuthType>
+      <ObjectId>4</ObjectId>
     </role>
     <schema id="48" parent="2" name="INFORMATION_SCHEMA">
       <ObjectId>3</ObjectId>
