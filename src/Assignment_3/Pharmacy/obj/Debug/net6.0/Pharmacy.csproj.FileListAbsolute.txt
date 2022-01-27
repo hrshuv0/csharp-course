@@ -1,0 +1,15 @@
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/bin/Debug/net6.0/Pharmacy
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/bin/Debug/net6.0/Pharmacy.deps.json
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/bin/Debug/net6.0/Pharmacy.runtimeconfig.json
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/bin/Debug/net6.0/Pharmacy.dll
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/bin/Debug/net6.0/ref/Pharmacy.dll
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/bin/Debug/net6.0/Pharmacy.pdb
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/Debug/net6.0/Pharmacy.csproj.AssemblyReference.cache
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/Debug/net6.0/Pharmacy.GeneratedMSBuildEditorConfig.editorconfig
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/Debug/net6.0/Pharmacy.AssemblyInfoInputs.cache
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/Debug/net6.0/Pharmacy.AssemblyInfo.cs
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/Debug/net6.0/Pharmacy.csproj.CoreCompileInputs.cache
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/Debug/net6.0/Pharmacy.dll
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/Debug/net6.0/ref/Pharmacy.dll
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/Debug/net6.0/Pharmacy.pdb
+/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/Debug/net6.0/Pharmacy.genruntimeconfig.cache
