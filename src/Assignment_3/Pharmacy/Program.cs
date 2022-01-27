@@ -1,12 +1,16 @@
 ﻿
 using Pharmacy;
+using Pharmacy.Controller;
 
 Dashboard dashboard = new Dashboard();
 dashboard.Display();
 
+MedicineController medicine = new MedicineController();
+
 while (true)
 {
-    var input = Char.ToLower(Console.ReadLine()[0]);
+    Console.Write("\nEnter option: ");
+    char input = Char.ToLower(Console.ReadLine()[0]);
     
 
     switch (input)
@@ -16,6 +20,7 @@ while (true)
             break;
         case 'b':
             Console.WriteLine("b. Add Medicine");
+            medicine.Create();
             break;
         case 'c':
             Console.WriteLine("c. Update Medicine");
@@ -28,7 +33,7 @@ while (true)
             return;
         default:
             dashboard.Display();
-            Console.WriteLine("among [a-e]");
+            Console.WriteLine("[warning] Enter option among [a-e]");
             break;
     }
 

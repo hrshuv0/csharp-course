@@ -14,7 +14,6 @@ public class Dashboard
         Console.WriteLine("\t#\t\t\t\t#");
         Console.WriteLine("\t#################################");
         
-        Console.Write("\nEnter option: ");
     }
     
     
