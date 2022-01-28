@@ -45,7 +45,7 @@ public class MedicineController
             return;
         }
 
-        Console.WriteLine("  Medicine Name       Quantity");
+        Console.WriteLine("\n  Medicine Name       Quantity");
         foreach (var m in medicines)
         {
             Console.Write("      " + m.Name);
@@ -65,7 +65,9 @@ public class MedicineController
         Console.Write("Enter medicine name: ");
         string? name = Console.ReadLine();
 
-        Medicine medicine = _dbContext.Medicines.FirstOrDefault(m => m.Name.Contains(name));
+        // Medicine medicine = _dbContext.Medicines.FirstOrDefault(m => m.Name.Contains(name));
+        Medicine? medicine = _dbContext.Medicines.FirstOrDefault(m => m.Name == name);
+
         Console.WriteLine(medicine.Name);
         
         Medicine newMedicine = new Medicine();
@@ -81,6 +83,18 @@ public class MedicineController
         _dbContext.SaveChanges();
 
         Console.WriteLine("Medicine updated successfully!");
+    }
+
+    public void Delete()
+    {
+        Console.Write("Enter medicine name: ");
+        string? name = Console.ReadLine();
+
+        Medicine medicine = _dbContext.Medicines.FirstOrDefault(m => m.Name != null && m.Name.Contains(name));
+        _dbContext.Remove(medicine);
+        _dbContext.SaveChanges();
+        
+        Console.WriteLine("Medicine Deleted successfully!");
     }
     
     

@@ -28,19 +28,24 @@ while (true)
             Console.WriteLine("a. Search medicine");
             medicine.Search();
             Console.WriteLine();
+            dashboard.Display();
             break;
         case 'b':
             Console.WriteLine("b. Add Medicine");
             medicine.Create();
             Console.WriteLine();
+            dashboard.Display();
             break;
         case 'c':
             Console.WriteLine("c. Update Medicine");
             medicine.Update();
             Console.WriteLine();
+            dashboard.Display();
             break;
         case 'd':
             Console.WriteLine("d. Remove Medicine");
+            medicine.Delete();
+            dashboard.Display();
             break;
         case 'e':
             Console.WriteLine("e. Exit");
