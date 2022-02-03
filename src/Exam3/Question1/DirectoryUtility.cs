@@ -10,7 +10,11 @@ namespace Question1
     {
         public static string[] GetFileNames(string path)
         {
-            throw new NotImplementedException();
+            IEnumerable<string> str = File.ReadLines(path);
+
+            string[] arr = str.ToArray();
+
+            return arr;
         }
     }
 }
