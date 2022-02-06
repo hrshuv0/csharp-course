@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r6Ki/KeNyzUE0zZCChjfc4STvu6HTBVN4BZhtRXG3zODvjMILABVz5XRVtF62FyGYrNx24/qdyPBglnulL39kQ==",
+  "dgSpecHash": "mi5b1l2qruZLoFJaI1xKq6FmIoPWw9bPZ8dL88itiM0dzjPvfbYdu1VvfG2ySUwxchR2PO/jViWxX9rwI6XUvA==",
   "success": true,
-  "projectFilePath": "/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj",
+  "projectFilePath": "/home/shuvo/Desktop/Task/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj",
   "expectedPackageFiles": [
     "/home/shuvo/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/shuvo/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj": {}
+    "/home/shuvo/Desktop/Task/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj": {}
   },
   "projects": {
-    "/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj": {
+    "/home/shuvo/Desktop/Task/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj",
+        "projectUniqueName": "/home/shuvo/Desktop/Task/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj",
         "projectName": "Pharmacy",
-        "projectPath": "/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj",
+        "projectPath": "/home/shuvo/Desktop/Task/csharp-course/src/Assignment_3/Pharmacy/Pharmacy.csproj",
         "packagesPath": "/home/shuvo/.nuget/packages/",
-        "outputPath": "/home/shuvo/Desktop/git/csharp-course/src/Assignment_3/Pharmacy/obj/",
+        "outputPath": "/home/shuvo/Desktop/Task/csharp-course/src/Assignment_3/Pharmacy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shuvo/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

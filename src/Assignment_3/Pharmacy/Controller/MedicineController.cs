@@ -68,6 +68,12 @@ public class MedicineController
         // Medicine medicine = _dbContext.Medicines.FirstOrDefault(m => m.Name.Contains(name));
         Medicine? medicine = _dbContext.Medicines.FirstOrDefault(m => m.Name == name);
 
+        if (medicine is null)
+        {
+            Console.WriteLine($"\n{name} is not found!, try again with full medicine name");
+            return;
+        }
+
         Console.WriteLine(medicine.Name);
         
         Medicine newMedicine = new Medicine();
@@ -91,6 +97,13 @@ public class MedicineController
         string? name = Console.ReadLine();
 
         Medicine medicine = _dbContext.Medicines.FirstOrDefault(m => m.Name != null && m.Name.Contains(name));
+
+        if (medicine is null)
+        {
+            Console.WriteLine($"\n{name} is not found!, try again with full medicine name");
+            return;
+        }
+        
         _dbContext.Remove(medicine);
         _dbContext.SaveChanges();
         
